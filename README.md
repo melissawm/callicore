@@ -9,7 +9,7 @@ A classroom-oriented open programming curriculum for math teachers
 
 ## Why? 
 
-High school teachers are often intimidated by programming, but children are expected to learn computational thinking from an early age. In particular, brazilian teachers don’t learn programming as a part of their academic training, but many schools expect them to work with new media, including interactive tools. This project was born out of a desire to help teachers understand critical programming skills that would allow them to design beautiful, engaging and active learning tools.
+High school teachers are often intimidated by programming, but children are expected to learn [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) from an early age. In particular, brazilian teachers don’t learn programming as a part of their academic training, but many schools expect them to work with new media, including interactive tools. This project was born out of a desire to help teachers understand critical programming skills that would allow them to design beautiful, engaging and active learning tools.
 
 ## Specific skills for teachers
 
@@ -26,7 +26,7 @@ The content is designed from proposed classroom activities; we work backwards to
 ify and create similar activities on their own. 
 
 ## Tools
-We rely heavily on Jupyter Notebooks and the ipywidgets tools to create content that can be used in two ways:
+We rely heavily on [Jupyter Notebooks](https://jupyter.org/) and the [ipywidgets](https://ipywidgets.readthedocs.io) tools to create content that can be used in two ways:
 - The content can be used as is, without too much trouble;
 - Activities are heavily customizable
 
@@ -41,7 +41,7 @@ tasks.
 
 ## Contributing
 
-Anyone is welcome to contribute; there is no required minimal level to be a contributor. If you catch a typo, have a better idea for an activity, found a bug or would like to make a request, we'll be happy to hear from you. Please be mindful of our [Code of Conduct](CODE_OF_CONDUCT.md).
+Anyone is welcome to contribute; there is no required minimal level to be a contributor. If you catch a typo, have a better idea for an activity, found a bug or would like to make a request, we'll be happy to hear from you. Please be mindful of our [Code of Conduct](code_of_conduct.md).
 
 ## Contact
 
