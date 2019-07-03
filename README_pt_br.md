@@ -1,4 +1,4 @@
-# Callicore
+# Callicore [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melissawm/callicore/master)
 Um curso de programação para professores de matemática voltado para a sala de aula
 
 [To read this document in English, click here](README.md)
