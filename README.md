@@ -1,4 +1,4 @@
-# Callicore
+# Callicore [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melissawm/callicore/master)
 A classroom-oriented open programming curriculum for math teachers
 
 [Para ler este documento em Português, clique aqui](README_pt_br.md)
