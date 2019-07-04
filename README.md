@@ -25,6 +25,8 @@ Our content is focused on the activities proposed around the math curriculum for
 The content is designed from proposed classroom activities; we work backwards to ensure teachers have the knowledge to mod-
 ify and create similar activities on their own. 
 
+Check out the full content [here](index.md)
+
 ## Tools
 We rely heavily on [Jupyter Notebooks](https://jupyter.org/) and the [ipywidgets](https://ipywidgets.readthedocs.io) tools to create content that can be used in two ways:
 - The content can be used as is, without too much trouble;

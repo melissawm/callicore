@@ -24,6 +24,8 @@ Nosso conteúdo é focado em atividades propostas em torno de assuntos do currí
 
 O conteúdo é desenvolvido a partir de atividades para a sala de aula: trabalhamos para que os professores tenham o conhecimento necessário para modificar e criar atividades semelhantes. 
 
+Para ver o conteúdo completo, [clique aqui](index_pt_br.md)
+
 ## Ferramentas
 Usamos principalmente [Jupyter Notebooks](https://jupyter.org/) e o pacote [ipywidgets](https://ipywidgets.readthedocs.io) para criar conteúdo que possa ser usado de duas maneiras:
 - Como está, de maneira direta;
