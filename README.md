@@ -45,6 +45,10 @@ tasks.
 
 Anyone is welcome to contribute; there is no required minimal level to be a contributor. If you catch a typo, have a better idea for an activity, found a bug or would like to make a request, we'll be happy to hear from you. Please be mindful of our [Code of Conduct](code_of_conduct.md).
 
+## Other material
+
+You can check out my poster at SciPy2019 [here](https://www.overleaf.com/read/qwmnrhzfbrmr)
+
 ## Contact
 
 You can contact Melissa at melissa.mendonca@ufsc.br, or @melissawm on twitter.
