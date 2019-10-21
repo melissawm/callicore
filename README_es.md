@@ -2,9 +2,9 @@
 
 Un currículo de programación abierto orientado al aula para profesores de matemáticas.
 
-[Para ler este documento em Português, clique aqui](README_pt_br.md)
+[To read this document in English, click here](README.md)
 
-[Para leer este documento en español, haga click aqui](README_es.md)
+[Para ler este documento em Português, clique aqui](README_pt_br.md)
 
 ![Callicore texa](<https://github.com/melissawm/callicore/blob/master/640px-Texa_eighty-eight_(Callicore_texa).jpg>)
 
