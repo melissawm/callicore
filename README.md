@@ -4,7 +4,7 @@ A classroom-oriented open programming curriculum for math teachers
 
 [Para ler este documento em Português, clique aqui](README_pt_br.md)
 
-[Para leer este documento en inglés, haga clic aquí](README_es.md)
+[Para leer este documento en español, haga clic aquí](README_es.md)
 
 ![Callicore texa](<https://github.com/melissawm/callicore/blob/master/640px-Texa_eighty-eight_(Callicore_texa).jpg>)
 
